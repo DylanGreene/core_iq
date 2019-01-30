@@ -1,0 +1,6 @@
+<layout id="MainLayout">
+    <label id="CurrentExercise" x="center" y="55" justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_LARGE" color="Gfx.COLOR_GREEN"/>
+    <label id="ExerciseNum" x="center" y="15" justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_SMALL" color="Gfx.COLOR_WHITE"/>
+    <label id="Timer" x="center" y="100" justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_NUMBER_THAI_HOT" color="Gfx.COLOR_WHITE"/>
+    <label id="NextExercise" x="center" y="165" justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_SMALL" color="Gfx.COLOR_BLUE"/>
+</layout>

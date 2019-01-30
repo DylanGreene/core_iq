@@ -1,0 +1,8 @@
+<settings>
+	<setting propertyKey="@Properties.interval_time" title="@Strings.menu_interval_time_label" prompt="@Strings.menu_interval_time_prompt">
+		<settingConfig type="numeric" min="5" />
+	</setting>
+	<setting propertyKey="@Properties.rest_time" title="@Strings.menu_rest_time_label" prompt="@Strings.menu_rest_time_prompt">
+		<settingConfig type="numeric" min="5" />
+	</setting>
+</settings>

@@ -1,0 +1,4 @@
+<properties>
+	<property id="interval_time" type="number">60</property>
+	<property id="rest_time" type="number">10</property>
+</properties>

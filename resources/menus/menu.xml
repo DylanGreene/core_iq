@@ -1,0 +1,4 @@
+<menu id="MainMenu">
+    <menu-item id="interval_time" label="@Strings.menu_interval_time_label" />
+    <menu-item id="rest_time" label="@Strings.menu_rest_time_label" />
+</menu>

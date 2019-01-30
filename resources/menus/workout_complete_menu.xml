@@ -1,0 +1,4 @@
+<menu id="WorkoutCompleteMenu">
+    <menu-item id="save" label="@Strings.conf_menu_save_label" />
+    <menu-item id="discard" label="@Strings.conf_menu_discard_label" />
+</menu>
