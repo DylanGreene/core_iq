@@ -24,7 +24,7 @@ class CoreWorkoutView extends WatchUi.View {
     hidden var interval_time = 0;
     hidden var interval_duration = 50;
     hidden var rest_duration = 10;
-	hidden var max_exercise_count = 13;
+	hidden var max_exercise_count = 14;
 	hidden var activity_complete = false;
 
     function initialize() {
@@ -273,7 +273,8 @@ class CoreWorkoutView extends WatchUi.View {
 		WatchUi.loadResource(Rez.Strings.exercise_10),
 		WatchUi.loadResource(Rez.Strings.exercise_11),
 		WatchUi.loadResource(Rez.Strings.exercise_12),
-		WatchUi.loadResource(Rez.Strings.exercise_13)
+		WatchUi.loadResource(Rez.Strings.exercise_13),
+		WatchUi.loadResource(Rez.Strings.exercise_14)
 	];
 
 }

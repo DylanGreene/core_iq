@@ -19,16 +19,17 @@
     <string id="exercise_1">In and Outs</string>
     <string id="exercise_2">Forward Bicycles</string>
     <string id="exercise_3">Reverse Bicycles</string>
-    <string id="exercise_4">Cross Leg Sit-Ups</string>
-    <string id="exercise_5">Fifer Scissors</string>
-    <string id="exercise_6">Hip Rock 'n Raise</string>
-    <string id="exercise_7">Pulse-ups</string>
-    <string id="exercise_8">V-up Roll-ups</string>
-    <string id="exercise_9">Oblique V-ups (L)</string>
-    <string id="exercise_10">Oblique V-ups (R)</string>
-    <string id="exercise_11">Leg Climbs (L)</string>
-    <string id="exercise_12">Leg Climbs (R)</string>
-    <string id="exercise_13">Mason Twists</string>
+    <string id="exercise_4">Crunchy Frog</string>
+    <string id="exercise_5">Cross Leg Sit-Ups</string>
+    <string id="exercise_6">Fifer Scissors</string>
+    <string id="exercise_7">Hip Rock 'n Raise</string>
+    <string id="exercise_8">Pulse-ups</string>
+    <string id="exercise_9">V-up Roll-ups</string>
+    <string id="exercise_10">Oblique V-ups (L)</string>
+    <string id="exercise_11">Oblique V-ups (R)</string>
+    <string id="exercise_12">Leg Climbs (L)</string>
+    <string id="exercise_13">Leg Climbs (R)</string>
+    <string id="exercise_14">Mason Twists</string>
     
     <string id="end_session">End Session?</string>
     <string id="saving_activity">Saving...</string>
